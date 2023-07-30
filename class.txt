@@ -3,7 +3,6 @@ Naranja
 Azul
 Cian
 Amarilo
-Carbón
 Caqui
 Coral
 Plata
